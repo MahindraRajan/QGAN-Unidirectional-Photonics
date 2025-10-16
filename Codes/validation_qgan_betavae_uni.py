@@ -16,14 +16,14 @@ import pandas as pd
 import cv2
 import os
 import pennylane as qml
-from models.models import BetaVAE, QuantumGenerator
+from models import BetaVAE, QuantumGenerator
 
 #Location of Saved Generator and beta-VAE
-genDir = "/dgxb_home/se21pphy004/Multiclass_Metasurface/final_generator_qgan_betavae_uni.pth"
-vaeDir = "/dgxb_home/se21pphy004/Multiclass_Metasurface/pretrained_beta_vae_uni.pth"
+genDir = "C:/....../final_generator_qgan_betavae_uni.pth"
+vaeDir = "C:/....../pretrained_beta_vae_uni.pth"
 
 #Location of Training Data
-spectra_path = '/dgxb_home/se21pphy004/Multiclass_Metasurface/Uni_data/Unidirectional-Training Dataset.csv'
+spectra_path = 'C:/....../Unidirectional-Training Dataset-___.csv'
 
 # Define the device
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -149,7 +149,7 @@ indices = [0, 180, 222, 302, 360, 380]
 # indices = []
 # for index in range(0,63):
 #     indices.append(1 * index)
-results_folder = os.path.dirname(os.path.realpath('/dgxb_home/se21pphy004/Multiclass_Metasurface/'))
+results_folder = os.path.dirname(os.path.realpath('C:/....../Results/'))
 Path(results_folder+ '/Results_qgan_betavae_uni').mkdir(parents=True, exist_ok=True) #ref: https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory-in-python
 file = open(results_folder + '/Results_qgan_betavae_uni/properties.txt',"w")
 file.write("Index FakeSurrounding RealSurrounding FakeThickness RealThickness FakeIndex RealIndex Class(vac=0/air=1)")
