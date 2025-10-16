@@ -46,8 +46,9 @@ The **VAE** compresses high dimensional metasurface image into low dimensional l
 - Quantum-assisted nanophotonic inverse design  
 - Angle-robust optical coatings and sensors
 
->Citation:
->@article{Warrier2025HybridQGAN,
+Citation:
+```
+@article{Warrier2025HybridQGAN,
   title   = {Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle - Independent Unidirectional Transmission},
   author  = {Warrier, Sreeraj Rajan and Dontabhaktuni, Jayasri},
   year    = {2025},
@@ -55,5 +56,7 @@ The **VAE** compresses high dimensional metasurface image into low dimensional l
   archivePrefix = {arXiv},
   primaryClass  = {physics.optics}
 }
->Sreeraj Rajan Warrier, Jayasri Dontabhaktuni. Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission. arXiv:2507.03518, 2025. 
+
+Sreeraj Rajan Warrier, Jayasri Dontabhaktuni. Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission. arXiv:2507.03518, 2025. 
 arXiv DOI: https://doi.org/10.48550/arXiv.2507.03518
+```
