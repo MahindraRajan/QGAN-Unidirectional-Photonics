@@ -1,0 +1,448 @@
+Name,Freq,MLM,MLD,AW,ANG,,Env,Thickness,Index
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_334.97,334.97,0.913,180,84.4,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_344.26,344.26,0.951,180,79.7,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_350,350,1.04,180,75.4,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_374.12,374.12,1.21,180,73.4,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_414.16,414.16,1.41,180,65.4,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.5-freq_430,430,1.36,180,62.9,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_334.97,334.97,1.79,180,70.5,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_337.79,337.79,1.78,180,68.7,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_344.26,344.26,1.93,180,66,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_350,350,2.06,180,64.7,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_352,352,2.11,180,64.5,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_374.12,374.12,2.51,180,63.1,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_408.09,408.09,2.82,180,57.6,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_414.16,414.16,2.82,180,56.3,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.1-LC_0.6-freq_430,430,2.8,180,55.6,45,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_334.97,334.97,0.895,180,80.3,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_344.26,344.26,0.912,180,75.6,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_374.12,374.12,1.17,180,72.7,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_408.09,408.09,1.22,180,71.1,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_414.16,414.16,1.39,180,65.7,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.5-freq_430,430,1.54,180,65.5,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_334.97,334.97,1.72,180,68.6,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_337.79,337.79,1.77,180,67,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_344.26,344,1.9,180,64.9,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_350,350,2.01,180,64.1,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_352,352,2.05,180,64,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_374.12,374.12,2.45,180,63.1,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_408.09,408.09,2.81,180,57.2,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_414.16,414.16,2.9,180,56.7,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.2-LC_0.6-freq_430,430,3,180,56.2,45,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.5-freq_334.97,334.97,0.86,180,81.8,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.5-freq_374.12,374.12,1.2,180,72.3,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.5-freq_408.09,408.09,1.27,180,67.9,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.5-freq_414.16,414.16,1.14,180,64.8,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_334.97,334.97,1.62,180,68,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_337.79,337.79,1.67,180,66.4,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_344.26,344.26,1.8,180,64.3,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_350,350,1.93,180,63.6,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_352,352,1.98,180,63.6,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_374.12,374.12,2.42,180,62.4,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_408.09,408.09,2.72,180,56.9,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_414.16,414.16,2.72,180,56.5,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.3-LC_0.6-freq_430,430,2.61,180,56.7,45,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_334.97,334.97,0.924,180,77.8,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_344.26,344.26,0.944,180,74.7,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_352,352,0.993,180,74.6,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_374.12,374.12,1.16,180,74.5,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_408.09,408.09,1.28,180,69.5,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_414.16,414.16,1.31,180,66.6,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.5-freq_430,430,1.49,180,66.9,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_334.97,334.97,1.76,180,67.9,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_337.79,337.79,1.82,180,66.7,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_344.26,344.26,1.96,180,65.1,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_350,350,2.07,180,64.7,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_352,352,2.1,180,64.7,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_374.12,374.12,2.51,180,63.6,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_408.09,408.09,3,180,58.4,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_414.16,414.16,3.1,180,58,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_0.5-LC_0.6-freq_430,430,2.8,0,56.9,45,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_334.97,334.97,0.913,180,84.4,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_337.79,337.79,0.822,180,88,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_344.26,344.26,0.951,180,79.7,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_350,350,1.04,180,75.4,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_374.12,374.12,1.21,180,73.4,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_408.09,408.09,1.14,180,67.6,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_414.16,414.16,1.41,180,65.4,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.5-freq_430,430,1.36,180,62.9,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_334.97,334.97,1.72,180,70.5,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_337.79,337.79,1.78,180,68.7,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_344.26,344.26,1.93,180,66,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_350,350,2.06,180,64.7,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_352,352,2.11,180,64.5,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_374.12,374.12,2.51,180,63.1,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_408.09,408.09,2.82,180,57.6,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_414.16,414.16,2.82,180,56.3,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.1-LC_0.6-freq_430,430,2.8,180,55.6,90,,1,0.1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_334.97,334.97,0.895,180,80.3,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_337.79,337.79,0.796,180,88.3,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_344.26,344.26,0.912,180,75.6,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_350,350,0.812,180,71.5,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_374.12,374.12,1.17,180,72.7,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_408.09,408.09,1.22,180,71.1,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_414.16,414.16,1.39,180,65.7,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.5-freq_430,430,1.54,180,65.5,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_334.97,334.97,1.72,180,68.6,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_337.79,337.79,1.77,180,67,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_344.26,344.26,1.9,180,64.9,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_350,350,2.01,180,64.1,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_352,352,2.05,180,64,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_374.12,374.12,2.44,180,63.1,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_408.09,408.09,2.81,180,57.2,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_414.16,414.16,2.9,180,56.7,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.2-LC_0.6-freq_430,430,3,180,56.2,90,,1,0.2,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.5-freq_334.97,334.97,0.86,180,81.8,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.5-freq_344.26,344.26,0.859,180,75.4,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.5-freq_374.12,374.12,1.2,180,72.3,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.5-freq_408.09,408.09,1.27,180,67.9,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_334.97,334.97,1.62,180,68,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_337.79,337.79,1.67,180,66.4,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_344.26,344.26,1.8,180,64.3,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_350,350,1.93,180,63.6,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_352,352,1.98,180,63.6,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_374.12,374.12,2.42,180,62.4,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_408.09,408.09,2.72,180,56.9,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_414.16,414.16,2.72,180,56.5,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.3-LC_0.6-freq_430,430,2.61,180,56.7,90,,1,0.3,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_334.97,334.97,0.924,180,77.8,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_344.26,344.26,0.944,180,74.7,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_347.12,347.12,1.16,180,74.5,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_352,352,0.993,180,74.6,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_408.09,408.09,1.28,180,69.5,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_414.16,414.16,1.31,180,66.6,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.5-freq_430,430,1.49,180,66.9,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_334.97,334.97,1.76,180,67.9,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_337.79,337.79,1.82,180,66.7,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_344.26,344.26,1.96,180,65.1,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_350,350,2.07,180,64.7,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_352,352,2.1,180,64.7,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_374.12,374.12,2.51,180,63.6,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_408.09,408.09,3,180,58.4,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_414.16,414.16,3.1,180,58,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_0.5-LC_0.6-freq_430,430,2.8,0,56.9,90,,1,0.5,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_1-LC_5-freq_54.527,54.527,245,180,54.2,90,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_1-LC_5-freq_59.96,59.96,294,180,68.1,90,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_30deg-st_1-LC_5-freq_54.527,54.527,245,180,54.2,30,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_30deg-st_1-LC_5-freq_59.96,59.96,294,180,68.1,30,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_1-LC_5-freq_54.527,54.527,245,180,54.2,45,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_1-LC_5-freq_59.96,59.96,294,180,68.1,45,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_30deg-st_1-LC_4-freq_53.647,53.647,100,180,65.9,30,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_30deg-st_1-LC_4-freq_70.202,70.202,155,180,53.4,30,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_30deg-st_1-LC_6-freq_47.87,47.87,400,180,51,30,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_1-LC_4-freq_53.678,53.678,100,180,65.9,45,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_1-LC_4-freq_70.202,70.202,155,180,53.4,45,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_45deg-st_1-LC_6-freq_47.87,47.87,400,180,51,45,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_1-LC_4-freq_53.679,53.679,100,180,65.9,90,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_1-LC_4-freq_70.184,70.184,155,180,53.4,90,,1.0003,1,2.38117618
+n-2.37-hourglass-with substrate-incidence_90deg-st_1-LC_6-freq_47.873,47.873,400,180,51,90,,1.0003,1,2.38117618
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-43.725,43.725,167,180,64.7,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-56.318,56.318,277,180,51.8,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-60.69,60.69,321,180,48.3,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-56.318,56.318,277,180,51.8,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-60.69,60.69,321,180,48.3,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-43.725,43.725,167,180,64.7,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-56.318,56.318,277,180,51.8,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-60.69,60.69,321,180,48.3,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-56.318,56.318,277,180,51.8,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-60.69,60.69,321,180,48.3,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-43.725,43.725,167,180,64.7,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-56.318,56.318,277,180,51.8,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-60.69,60.69,321,180,48.3,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-56.318,56.318,277,180,51.8,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-60.69,60.69,321,180,48.3,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-43.725,43.725,167,180,64.7,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-56.318,56.318,277,180,51.8,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-60.69,60.69,321,180,48.3,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-56.318,56.318,277,180,51.8,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-60.69,60.69,321,180,48.3,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-43.725,43.725,167,180,64.7,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-56.318,56.318,277,180,51.8,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-60.69,60.69,321,180,48.3,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-56.318,56.318,277,180,51.8,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-60.69,60.69,321,180,48.3,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-43.725,43.725,642,180,48,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-56.318,56.318,1060,180,37.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-60.69,60.69,1230,180,35.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-43.725,43.725,642,180,48,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-56.318,56.318,1060,180,37.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-60.69,60.69,1230,180,35.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-43.725,43.725,642,180,48,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-56.318,56.318,1060,180,37.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-60.69,60.69,1230,180,35.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-43.725,43.725,642,180,48,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-56.318,56.318,1060,180,37.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-60.69,60.69,1230,180,35.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-43.725,43.725,642,180,48,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-56.318,56.318,1060,180,37.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-60.69,60.69,1230,180,35.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-43.725,43.725,642,180,48,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-56.318,56.318,1060,180,37.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-60.69,60.69,1230,180,35.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-43.725,43.725,642,180,48,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-56.318,56.318,1060,180,37.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-60.69,60.69,1230,180,35.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-43.725,43.725,642,180,48,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-56.318,56.318,1060,180,37.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-60.69,60.69,1230,180,35.2,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-43.725,43.725,642,180,48,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-56.318,56.318,1060,180,37.9,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-60.69,60.69,1230,180,35.2,45,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-43.725,43.725,642,180,48,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-56.318,56.318,1060,180,37.9,90,,1.0003,1,1.449137675
+SiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-60.69,60.69,1230,180,35.2,90,,1.0003,1,1.449137675
+Te-hourglass-with substrate-incidence_30deg-st_1-LC_5-freq_32.261,32.261,90.8,180,82.6,30,,1.0003,1,4.8044
+Te-hourglass-with substrate-incidence_30deg-st_1-LC_5-freq_50.807,50.807,194,180,58.9,30,,1.0003,1,4.8044
+Te-hourglass-with substrate-incidence_45deg-st_1-LC_5-freq_32.261,32.261,90.8,180,82.6,45,,1.0003,1,4.8044
+Te-hourglass-with substrate-incidence_45deg-st_1-LC_5-freq_50.807,50.807,194,180,58.9,45,,1.0003,1,4.8044
+Te-hourglass-with substrate-incidence_90deg-st_1-LC_5-freq_32.261,32.261,90.8,180,82.6,90,,1.0003,1,4.8044
+Te-hourglass-with substrate-incidence_90deg-st_1-LC_5-freq_50.807,50.807,194,180,58.9,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-45_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-45_freq-43.725,43.725,68.4,180,77.2,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-45_freq-56.318,56.318,108,180,64.8,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-45_freq-60.69,60.69,127,180,59.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-90_freq-30,30,32.2,180,98,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-90_freq-43.725,43.725,68.4,180,77.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-90_freq-56.318,56.318,108,180,64.8,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-15_incidence-90_freq-60.69,60.69,127,180,59.7,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-45_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-45_freq-43.725,43.725,68.4,180,77.2,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-45_freq-56.318,56.318,107,180,65,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-45_freq-60.69,60.69,128,180,59.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-90_freq-30,30,32.2,180,98,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-90_freq-43.725,43.725,68.4,180,77.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-90_freq-56.318,56.318,107,180,65,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-16_incidence-90_freq-60.69,60.69,128,180,59.7,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-45_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-45_freq-43.725,43.725,68.4,180,77.2,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-45_freq-56.318,56.318,102,180,65.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-45_freq-60.69,60.69,128,180,59.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-90_freq-30,30,32.2,180,98,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-90_freq-43.725,43.725,68.4,180,77.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-90_freq-56.318,56.318,102,180,65.7,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-17_incidence-90_freq-60.69,60.69,128,180,59.7,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-45_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-45_freq-43.725,43.725,68.3,180,77.2,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-45_freq-60.69,60.69,127,180,59.6,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-90_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-90_freq-43.725,43.725,68.3,180,77.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-18_incidence-90_freq-60.69,60.69,127,180,59.6,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-45_freq-30,30,32.2,180,98,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-45_freq-43.725,43.725,68.3,180,77.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-45_freq-60.69,60.69,127,180,59.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-90_freq-30,30,32.2,180,98,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-90_freq-43.725,43.725,68.3,180,77.2,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-4_pyr_ang-19_incidence-90_freq-60.69,60.69,127,180,59.7,45,,1.0003,1,4.8044
+Te_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-30,30,78.6,180,86,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-43.725,43.725,167,180,64.7,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-56.318,56.318,272,180,52.2,90,,1.0003,1,4.8044
+Te_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-60.69,60.69,286,180,57.7,90,,1.0003,1,4.8044
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-45_freq-30,30,10.2,180,110.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-45_freq-56.318,56.318,35.7,180,80.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-45_freq-60.69,60.69,39.5,180,78.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-90_freq-30,30,10.2,180,110.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-90_freq-56.318,56.318,35.7,180,80.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-15_incidence-90_freq-60.69,60.69,39.5,180,78.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-45_freq-30,30,10.2,180,110.5,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-45_freq-43.725,43.725,19.7,180,87.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-45_freq-56.318,56.318,35.6,180,80.8,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-45_freq-60.69,60.69,38,180,79.6,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-90_freq-30,30,10.2,180,110.5,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-90_freq-43.725,43.725,19.7,180,87.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-90_freq-56.318,56.318,35.6,180,80.8,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-16_incidence-90_freq-60.69,60.69,38,180,79.6,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-45_freq-30,30,10.2,180,110.6,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-45_freq-43.725,43.725,20.7,180,89.2,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-45_freq-56.318,56.318,35.5,180,81,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-90_freq-30,30,10.2,180,110.6,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-90_freq-43.725,43.725,20.7,180,89.2,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-17_incidence-90_freq-56.318,56.318,35.5,180,81,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-45_freq-30,30,10.2,180,110.6,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-45_freq-43.725,43.725,20.9,180,89.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-45_freq-56.318,56.318,35.5,180,81.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-45_freq-60.69,60.69,41.1,180,76.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-90_freq-30,30,10.2,180,110.6,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-90_freq-43.725,43.725,20.9,180,89.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-90_freq-56.318,56.318,35.5,180,81.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-18_incidence-90_freq-60.69,60.69,41.1,180,76.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-45_freq-30,30,10.2,180,110.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-45_freq-43.725,43.725,21,180,90,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-45_freq-56.318,56.318,35.4,180,81.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-45_freq-60.69,60.69,40.4,180,73.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-90_freq-30,30,10.2,180,110.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-90_freq-43.725,43.725,21,180,90,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-90_freq-56.318,56.318,35.4,180,81.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-3_pyr_ang-19_incidence-90_freq-60.69,60.69,40.4,180,73.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-30,30,78.6,180,86.2,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-43.725,43.725,150,180,65,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-56.318,56.318,277,180,51.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-45_freq-60.69,60.69,294,180,56.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-30,30,78.6,180,86.2,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-43.725,43.725,150,180,65,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-56.318,56.318,277,180,51.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-15_incidence-90_freq-60.69,60.69,294,180,56.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-30,30,78.6,180,86.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-43.725,43.725,165,180,64.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-56.318,56.318,276,180,51.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-45_freq-60.69,60.69,285,180,59.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-30,30,78.6,180,86.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-43.725,43.725,165,180,64.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-56.318,56.318,276,180,51.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-16_incidence-90_freq-60.69,60.69,285,180,59.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-30,30,78.6,180,86.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-43.725,43.725,166,180,64.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-56.318,56.318,276,180,51.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-45_freq-60.69,60.69,260,180,52.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-30,30,78.6,180,86.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-43.725,43.725,166,180,64.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-56.318,56.318,276,180,51.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-17_incidence-90_freq-60.69,60.69,260,180,52.4,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-30,30,78.6,180,86.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-43.725,43.725,166,180,64.7,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-56.318,56.318,276,180,51.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-45_freq-60.69,60.69,306,180,49.5,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-30,30,78.6,180,86.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-43.725,43.725,166,180,64.7,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-56.318,56.318,276,180,51.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-18_incidence-90_freq-60.69,60.69,306,180,49.5,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-30,30,78.6,180,86,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-43.725,43.725,166,180,64.8,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-56.318,56.318,276,180,51.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-45_freq-60.69,60.69,288,180,51,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-30,30,78.6,180,86,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-43.725,43.725,166,180,64.8,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-56.318,56.318,276,180,51.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-5_pyr_ang-19_incidence-90_freq-60.69,60.69,288,180,51,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-43.725,43.725,538,180,49.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-56.318,56.318,1060,180,38.6,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-45_freq-60.69,60.69,1180,180,34.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-43.725,43.725,538,180,49.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-56.318,56.318,1060,180,38.6,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-15_incidence-90_freq-60.69,60.69,1180,180,34.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-43.725,43.725,614,180,49.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-56.318,56.318,1060,180,38.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-45_freq-60.69,60.69,1160,180,34.8,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-43.725,43.725,614,180,49.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-56.318,56.318,1060,180,38.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-16_incidence-90_freq-60.69,60.69,1160,180,34.8,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-43.725,43.725,628,180,48.8,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-56.318,56.318,1060,180,38.2,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-45_freq-60.69,60.69,1120,180,35.5,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-43.725,43.725,628,180,48.8,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-56.318,56.318,1060,180,38.2,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-17_incidence-90_freq-60.69,60.69,1120,180,35.5,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-43.725,43.725,631,180,48.6,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-56.318,56.318,1060,180,38.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-45_freq-60.69,60.69,1200,180,35.3,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-43.725,43.725,631,180,48.6,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-56.318,56.318,1060,180,38.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-18_incidence-90_freq-60.69,60.69,1200,180,35.3,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-30,30,302,180,66.9,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-43.725,43.725,633,180,48.5,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-56.318,56.318,1060,180,38.1,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-45_freq-60.69,60.69,1180,180,35.4,45,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-30,30,302,180,66.9,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-43.725,43.725,633,180,48.5,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-56.318,56.318,1060,180,38.1,90,,1.0003,1,9.273618495
+TiO2_st-1_at-5_LC-7_pyr_ang-19_incidence-90_freq-60.69,60.69,1180,180,35.4,90,,1.0003,1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_130.25,130.25,0.147,180,124.3,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_150.75,150.75,0.196,180,117.1,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_179.3,179.3,0.277,180,106.6,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_208.66,208.66,0.397,180,107.5,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_275.07,275.07,0.541,180,99,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_299.51,299.51,0.724,180,93.2,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.1-LC_0.5-freq_321.18,321.18,0.898,180,82.5,45,,1,0.1,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.2-LC_0.5-freq_130.25,130.25,0.148,180,120.8,45,,1,0.2,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.2-LC_0.5-freq_135,135,0.159,180,118,45,,1,0.2,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.2-LC_0.5-freq_235.41,235.41,0.459,180,97.1,45,,1,0.2,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.2-LC_0.5-freq_250.58,250.58,0.549,180,96.1,45,,1,0.2,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.2-LC_0.5-freq_266.72,266.72,0.53,180,98.2,45,,1,0.2,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_115.49,115.49,0.116,180,119,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_163.62,163.62,0.233,180,112.7,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_179.3,179.3,0.26,180,100.1,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_204.31,204.31,0.365,180,105.4,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_235.41,235.41,0.456,180,97.1,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_242.79,242.79,0.515,180,97.7,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_251.09,251.09,0.551,180,96.1,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.3-LC_0.5-freq_263.08,263.08,0.605,180,93.8,45,,1,0.3,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.5-LC_0.5-freq_130.25,130.25,0.148,180,119.7,45,,1,0.5,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.5-LC_0.5-freq_150.75,150.75,0.199,180,116.3,45,,1,0.5,9.273618495
+TiO2-hourglass-incidence_45deg-st_0.5-LC_0.5-freq_179.3,179.3,0.281,180,110.5,45,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.4-freq_130.25,130.25,0.0592,180,134.8,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.4-freq_150.75,150.75,0.0788,180,128.7,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.4-freq_179.3,179.3,0.111,180,111.4,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.4-freq_208.66,208.66,0.154,180,117.6,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.4-freq_321.18,321.18,0.357,180,100.7,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_130.25,130.25,0.147,180,124.3,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_150.75,150.75,0.196,180,117.1,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_179.3,179.3,0.277,180,106.6,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_208.66,208.66,0.397,180,107.5,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_299.51,299.51,0.724,180,93.2,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.1-LC_0.5-freq_321.18,321.8,0.898,180,82.5,90,,1,0.1,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.4-freq_130.25,130.25,0.0606,180,125.8,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.4-freq_135,135,0.0649,180,120.9,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.4-freq_235.41,235.41,0.177,180,101.8,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.4-freq_250.58,250.58,0.224,180,107.7,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.5-freq_130.25,130.25,0.148,180,120.8,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.5-freq_135,135,159,180,118,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.5-freq_235.41,235.41,0.459,180,97.1,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.5-freq_250.58,250.58,0.549,180,96.1,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.2-LC_0.5-freq_266.72,266.72,0.53,180,98.2,90,,1,0.2,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_111.77,111.77,0.0447,180,125.1,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_130.25,130.25,0.05,0,114.3,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_162.82,162.82,0.0947,180,119.8,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_179.3,179.3,0.0965,180,99.5,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_204.39,204.39,0.15,180,113.6,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_235.41,235.41,0.182,180,102.3,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_241.87,241.87,0.209,180,109.2,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_242.79,242.79,0.207,180,113.7,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_251.09,251.09,0.226,180,106.5,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_263.08,263.08,0.247,180,104.3,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.4-freq_279.47,279.47,0.279,180,102,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.5-freq_179.3,179.3,0.26,180,100.1,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.5-freq_235.41,235.41,0.456,180,97.1,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.5-freq_242.79,242.79,0.515,180,97.7,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.5-freq_251.09,251.09,0.551,180,96.1,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.3-LC_0.5-freq_263.08,263.08,0.605,180,93.8,90,,1,0.3,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_130.25,130.25,0.0561,180,147.6,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_150.75,150.75,0.081,180,120.3,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_179.3,179.3,0.115,180,116,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_227.59,227.59,0.185,180,109.6,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_246.6,246.6,0.217,180,105.7,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.4-freq_299.51,266.51,0.318,180,101.1,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.5-freq_130.25,130.25,0.148,180,119.7,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.5-freq_150.75,150.75,0.199,180,116.3,90,,1,0.5,9.273618495
+TiO2-hourglass-incidence_90deg-st_0.5-LC_0.5-freq_179.3,179.3,0.281,180,110.5,90,,1,0.5,9.273618495
