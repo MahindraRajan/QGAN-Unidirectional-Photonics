@@ -1,2 +1,47 @@
-# QGAN-Unidirectional-Photonics
-LaSt-QGAN is a hybrid quantum-classical model for inverse design of all-dielectric metasurfaces achieving angle-robust unidirectional transmission. Using a VAE-QGAN architecture, it enables 40× data efficiency, 95% solar-cell gain, and real-material mapping for scalable, manufacturable quantum-enhanced photonics.
+# QGAN Unidirectional Photonics
+
+**Quantum-Enhanced Inverse Design of Angle-Robust Metasurfaces**
+
+LaSt-QGAN (Latent-Space Quantum Generative Adversarial Network) is a **hybrid quantum-classical architecture** for inverse design of all-dielectric metasurfaces that achieve **unidirectional, angle-independent light transmission** for advanced photovoltaic applications.
+
+---
+
+## 🌞 Overview
+
+Metasurface-enabled photovoltaics offer powerful ways to control light—enhancing trapping, spectral shaping, and directionality. However, achieving **stable unidirectional transmission independent of incidence angle** has been a major challenge.
+
+LaSt-QGAN bridges this gap by combining a **Variational Autoencoder (VAE)** with a **Quantum GAN (QGAN)** to directly generate metasurface patterns from desired far-field profiles. This approach drastically reduces data requirements and computational cost while maintaining optical accuracy and manufacturability.
+
+---
+
+## ⚙️ Key Features
+
+- **Unidirectional Transmission:** Robust across −60° to 60° incidence angles  
+- **Data Efficiency:** Achieves results with only 500 training samples (40× fewer than classical GANs)  
+- **Fast Training:** ~2.5 hours on a single Tesla A100 GPU  
+- **Hybrid Quantum-Classical Architecture:** Combines VAE encoding with quantum generator circuits  
+- **Real-Material Mapping:** Integrates refractive index database for manufacturable designs (<10⁻⁴ MSE)  
+- **Performance Gain:** 95% boost in simulated Perovskite solar-cell efficiency  
+
+---
+
+## 🧠 Architecture
+
+
+The **VAE** compresses optical field information into latent space. The **QGAN** generator explores this space using quantum circuits to produce candidate metasurface geometries that satisfy far-field design targets. A **classical discriminator** refines convergence, ensuring physical realizability.
+
+---
+
+## 📊 Results
+
+- Generated **bow-tie all-dielectric metasurfaces** exhibiting angle-independent transmission.  
+- Demonstrated **robust efficiency** under wide angular variation.  
+- Achieved **fabrication-compatible** designs via material lookup mapping.  
+
+---
+
+## 🧩 Applications
+
+- High-efficiency Perovskite and Si solar cells  
+- Quantum-assisted nanophotonic inverse design  
+- Angle-robust optical coatings and sensors  
