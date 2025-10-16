@@ -5,7 +5,7 @@ import torchvision.datasets as dset
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
-from models.models import BetaVAE
+from models import BetaVAE
 
 # Training the Disentangled Beta-VAE
 def train_beta_vae(betavae, dataloader, beta, optimizer, num_epochs, device):
@@ -41,7 +41,7 @@ if __name__ == '__main__':
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     # Data preparation (Adjust the path as needed)
-    img_path = '/dgxb_home/se21pphy004/Multiclass_Metasurface/Uni_data/Images/'
+    img_path = 'C:/....../Training Images-___/'
     
     dataset = dset.ImageFolder(root=img_path,
                                transform=transforms.Compose([
