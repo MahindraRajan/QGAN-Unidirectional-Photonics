@@ -46,6 +46,8 @@ The **VAE** compresses high dimensional metasurface image into low dimensional l
 - Quantum-assisted nanophotonic inverse design  
 - Angle-robust optical coatings and sensors
 
+---
+
 ## 📘 Citation
 
 If you use **LaSt-QGAN** in your work, please cite:
