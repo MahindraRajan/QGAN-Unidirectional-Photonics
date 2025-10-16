@@ -11,8 +11,7 @@ import torchvision.utils as vutils
 import pandas as pd
 import random
 import time
-from models.models import BetaVAE, Discriminator, QuantumGenerator
-
+from models import BetaVAE, Discriminator, QuantumGenerator
 
 # Load the pretrained VAE and train the QGAN
 def train_qgan(generator, discriminator, betavae, excelDataTensor, dataloader, optimizerG, optimizerD, criterion, num_epochs):
@@ -156,8 +155,8 @@ if __name__ == '__main__':
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     # Data preparation (Adjust the path as needed)
-    img_path = '/dgxb_home/se21pphy004/Multiclass_Metasurface/Uni_data/Images/'
-    spectra_path = '/dgxb_home/se21pphy004/Multiclass_Metasurface/Uni_data/Unidirectional-Training Dataset.csv'
+    img_path = 'C:/....../Training Images-___/'
+    spectra_path = 'C:/....../Unidirectional-Training Dataset-___.csv'
 
     excelData, excelDataSpectra, excelDataTensor = Excel_Tensor(spectra_path)
     
