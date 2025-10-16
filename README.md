@@ -28,7 +28,7 @@ LaSt-QGAN bridges this gap by combining a **Variational Autoencoder (VAE)** with
 ## 🧠 Architecture
 
 
-The **VAE** compresses optical field information into latent space. The **QGAN** generator explores this space using quantum circuits to produce candidate metasurface geometries that satisfy far-field design targets. A **classical discriminator** refines convergence, ensuring physical realizability.
+The **VAE** compresses high dimensional metasurface image into low dimensional latent space. The **QGAN** generator explores this space using quantum circuits to produce candidate metasurface geometries that satisfy far-field design targets. A **classical discriminator** refines convergence, ensuring physical realizability.
 
 ---
 
