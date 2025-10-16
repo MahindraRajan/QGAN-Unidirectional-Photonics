@@ -50,7 +50,7 @@ The **VAE** compresses high dimensional metasurface image into low dimensional l
 
 ## 📘 Citation
 
-If you use **LaSt-QGAN** in your work, please cite:
+If you use this dataset and code in your work, please cite:
 
 Sreeraj Rajan Warrier, Jayasri Dontabhaktuni. *Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission*. arXiv:2507.03518 [physics.optics], 2025. ([arxiv](https://arxiv.org/abs/2507.03518))
 ### BibTeX
