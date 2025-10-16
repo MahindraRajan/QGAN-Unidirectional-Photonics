@@ -54,7 +54,7 @@ Sreeraj Rajan Warrier, Jayasri Dontabhaktuni. *Hybrid Quantum Generative Adversa
 ### BibTeX
 
 ```bibtex
-@misc{WarrierDontabhaktuni2025,
+@misc{WarrierUni2025,
   title        = {Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission},
   author       = {Warrier, Sreeraj Rajan and Dontabhaktuni, Jayasri},
   year         = {2025},
